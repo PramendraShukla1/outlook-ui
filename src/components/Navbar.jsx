@@ -72,13 +72,12 @@ const Navbar = () => {
             alt=""
             className="h-10 w-10 rounded-full object-cover"
           />
-        
         </div>
         <img
-            src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt=""
-            className="h-10 w-10 rounded-full object-cover lg:hidden flex"
-          />
+          src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          alt=""
+          className="h-10 w-10 rounded-full object-cover lg:hidden flex"
+        />
       </nav>
 
       <div className="flex flex-row">
